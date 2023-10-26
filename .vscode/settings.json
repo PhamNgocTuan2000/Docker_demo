@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1@daemonset": "file:///Users/phamngoctuan/Desktop/HOC/DOCKER_DEMO/kafka-deployment.yaml"
+    }
+}
